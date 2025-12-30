@@ -1,0 +1,13 @@
+# newdoc id = doc_1
+# sent_id = 1
+# text = le di el libro
+1	le	él	PRON	pp3csd00	Case=Dat|Number=Sing|Person=3|PronType=Prs	2	obl:arg	_	CharOffset=0:2
+2	di	dar	VERB	vmis1s0	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	CharOffset=3:5
+3	el	el	DET	da0ms0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	CharOffset=6:8
+4	libro	libro	NOUN	ncms000	Gender=Masc|Number=Sing	2	obj	_	CharOffset=9:14
+
+# newdoc id = doc_2
+# sent_id = 1
+# text = di lo
+1	di	decir	VERB	vmip1s0	VerbForm=Fin	0	root	_	CharOffset=0:2
+2	lo	él	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	1	obj	_	CharOffset=3:5
