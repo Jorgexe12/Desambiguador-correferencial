@@ -1,13 +1,179 @@
 # newdoc id = doc_1
 # sent_id = 1
-# text = le di el libro
-1	le	él	PRON	pp3csd00	Case=Dat|Number=Sing|Person=3|PronType=Prs	2	obl:arg	_	CharOffset=0:2
-2	di	dar	VERB	vmis1s0	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	CharOffset=3:5
-3	el	el	DET	da0ms0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	CharOffset=6:8
-4	libro	libro	NOUN	ncms000	Gender=Masc|Number=Sing	2	obj	_	CharOffset=9:14
+# text = El hombre pisó algo blanduzco, y enseguida sintió la mordedura en el pie.
+1	El	el	DET	da0ms0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	CharOffset=0:2
+2	hombre	hombre	NOUN	ncms000	Gender=Masc|Number=Sing	3	nsubj	_	CharOffset=3:9
+3	pisó	pisar	VERB	vmis3s0	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	CharOffset=10:14
+4	algo	algo	PRON	pi0cs000	Number=Sing|PronType=Ind	3	obj	_	CharOffset=15:19
+5	blanduzco	blanduzco	ADJ	aq0ms0	Gender=Masc|Number=Sing	4	amod	_	CharOffset=20:29
+6	,	,	PUNCT	fc	PunctType=Comm	9	punct	_	CharOffset=29:30
+7	y	y	CCONJ	cc	_	9	cc	_	CharOffset=31:32
+8	enseguida	enseguida	ADV	rg	_	9	advmod	_	CharOffset=33:42
+9	sintió	sentir	VERB	vmis3s0	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	conj	_	CharOffset=43:49
+10	la	el	DET	da0fs0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	CharOffset=50:52
+11	mordedura	mordedura	NOUN	ncfs000	Gender=Fem|Number=Sing	9	obj	_	CharOffset=53:62
+12	en	en	ADP	sps00	_	14	case	_	CharOffset=63:65
+13	el	el	DET	da0ms0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	CharOffset=66:68
+14	pie	pie	NOUN	ncms000	Gender=Masc|Number=Sing	9	obl	_	CharOffset=69:72
+15	.	.	PUNCT	fp	PunctType=Peri	3	punct	_	CharOffset=72:73
 
 # newdoc id = doc_2
 # sent_id = 1
-# text = di lo
-1	di	decir	VERB	vmip1s0	VerbForm=Fin	0	root	_	CharOffset=0:2
-2	lo	él	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	1	obj	_	CharOffset=3:5
+# text = Saltó adelante, y al volverse con un juramento vio una yararacusú que, arrollada sobre sí misma, esperaba otro ataque.
+1	Saltó	saltar	VERB	vmis3s0	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	CharOffset=0:5
+2	adelante	adelante	ADV	rg	_	1	advmod	_	CharOffset=6:14
+3	,	,	PUNCT	fc	PunctType=Comm	12	punct	_	CharOffset=14:15
+4	y	y	CCONJ	cc	_	12	cc	_	CharOffset=16:17
+5	a	a	ADP	spcms	_	7	case	_	_
+6	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	volver	volver	VERB	vmn0000	VerbForm=Inf	12	advcl	_	CharOffset=21:27
+8	se	él	PRON	_	Case=Acc|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	7	expl:pv	_	CharOffset=27:29
+9	con	con	ADP	sps00	_	11	case	_	CharOffset=30:33
+10	un	uno	DET	di0ms0	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	11	det	_	CharOffset=34:36
+11	juramento	juramento	NOUN	ncms000	Gender=Masc|Number=Sing	7	obl	_	CharOffset=37:46
+12	vio	ver	VERB	vmis3s0	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	conj	_	CharOffset=47:50
+13	una	uno	DET	di0fs0	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	14	det	_	CharOffset=51:54
+14	yararacusú	yararacusú	NOUN	ncfs000	Gender=Fem|Number=Sing	12	obj	_	CharOffset=55:65
+15	que	que	PRON	pr0cn000	PronType=Rel	22	nsubj	_	CharOffset=66:69
+16	,	,	PUNCT	fc	PunctType=Comm	17	punct	_	CharOffset=69:70
+17	arrollada	arrollado	ADJ	aq0fsp	Gender=Fem|Number=Sing|VerbForm=Part	22	advcl	_	CharOffset=71:80
+18	sobre	sobre	ADP	sps00	_	19	case	_	CharOffset=81:86
+19	sí	él	PRON	pp3cno00	Case=Acc|Person=3|PrepCase=Pre|PronType=Prs|Reflex=Yes	17	obl	_	CharOffset=87:89
+20	misma	mismo	ADJ	aq0fs0	Gender=Fem|Number=Sing	19	amod	_	CharOffset=90:95
+21	,	,	PUNCT	fc	PunctType=Comm	17	punct	_	CharOffset=95:96
+22	esperaba	esperar	VERB	vmii3s0	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	14	acl	_	CharOffset=97:105
+23	otro	otro	DET	di0ms0	Gender=Masc|Number=Sing|PronType=Ind	24	det	_	CharOffset=106:110
+24	ataque	ataque	NOUN	ncms000	Gender=Masc|Number=Sing	22	obj	_	CharOffset=111:117
+25	.	.	PUNCT	fp	PunctType=Peri	1	punct	_	CharOffset=117:118
+
+# newdoc id = doc_3
+# sent_id = 1
+# text = El hombre echó una veloz ojeada a su pie, donde dos gotitas de sangre engrosaban dificultosamente, y sacó el machete de la cintura.
+1	El	el	DET	da0ms0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	CharOffset=0:2
+2	hombre	hombre	NOUN	ncms000	Gender=Masc|Number=Sing	3	nsubj	_	CharOffset=3:9
+3	echó	echar	VERB	vmis3s0	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	CharOffset=10:14
+4	una	uno	DET	di0fs0	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	6	det	_	CharOffset=15:18
+5	veloz	veloz	ADJ	aq0cs0	Number=Sing	6	amod	_	CharOffset=19:24
+6	ojeada	ojeada	NOUN	ncfs000	Gender=Fem|Number=Sing	3	obj	_	CharOffset=25:31
+7	a	a	ADP	sps00	_	9	case	_	CharOffset=32:33
+8	su	su	DET	dp3cs0	Number=Sing|Person=3|Poss=Yes|PronType=Prs	9	det	_	CharOffset=34:36
+9	pie	pie	NOUN	ncms000	Gender=Masc|Number=Sing	3	obl	_	CharOffset=37:40
+10	,	,	PUNCT	fc	PunctType=Comm	16	punct	_	CharOffset=40:41
+11	donde	donde	ADV	pr000000	PronType=Rel	16	advmod	_	CharOffset=42:47
+12	dos	dos	NUM	dn0cp0	NumForm=Word|NumType=Card|Number=Plur	13	nummod	_	CharOffset=48:51
+13	gotitas	gotita	NOUN	ncfp000	Gender=Fem|Number=Plur	16	nsubj	_	CharOffset=52:59
+14	de	de	ADP	sps00	_	15	case	_	CharOffset=60:62
+15	sangre	sangre	NOUN	ncfs000	Gender=Fem|Number=Sing	13	nmod	_	CharOffset=63:69
+16	engrosaban	engrosar	VERB	vmii3p0	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	9	acl	_	CharOffset=70:80
+17	dificultosamente	dificultosamente	ADV	rg	_	16	advmod	_	CharOffset=81:97
+18	,	,	PUNCT	fc	PunctType=Comm	20	punct	_	CharOffset=97:98
+19	y	y	CCONJ	cc	_	20	cc	_	CharOffset=99:100
+20	sacó	sacar	VERB	vmis3s0	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	conj	_	CharOffset=101:105
+21	el	el	DET	da0ms0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	22	det	_	CharOffset=106:108
+22	machete	machete	NOUN	ncms000	Gender=Masc|Number=Sing	20	obj	_	CharOffset=109:116
+23	de	de	ADP	sps00	_	25	case	_	CharOffset=117:119
+24	la	el	DET	da0fs0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	25	det	_	CharOffset=120:122
+25	cintura	cintura	NOUN	ncfs000	Gender=Fem|Number=Sing	22	nmod	_	CharOffset=123:130
+26	.	.	PUNCT	fp	PunctType=Peri	3	punct	_	CharOffset=130:131
+
+# newdoc id = doc_4
+# sent_id = 1
+# text = La víbora vio la amenaza, y hundió más la cabeza en el centro mismo de su espiral; pero el machete cayó de lomo, dislocándole las vértebras.
+1	La	el	DET	da0fs0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	CharOffset=0:2
+2	víbora	víbora	NOUN	ncfs000	Gender=Fem|Number=Sing	3	nsubj	_	CharOffset=3:9
+3	vio	ver	VERB	vmis3s0	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	CharOffset=10:13
+4	la	el	DET	da0fs0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	CharOffset=14:16
+5	amenaza	amenaza	NOUN	ncfs000	Gender=Fem|Number=Sing	3	obj	_	CharOffset=17:24
+6	,	,	PUNCT	fc	PunctType=Comm	8	punct	_	CharOffset=24:25
+7	y	y	CCONJ	cc	_	8	cc	_	CharOffset=26:27
+8	hundió	hundir	VERB	vmis3s0	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	conj	_	CharOffset=28:34
+9	más	más	ADV	rg	Degree=Cmp	8	advmod	_	CharOffset=35:38
+10	la	el	DET	da0fs0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	CharOffset=39:41
+11	cabeza	cabeza	NOUN	ncfs000	Gender=Fem|Number=Sing	8	obj	_	CharOffset=42:48
+12	en	en	ADP	sps00	_	14	case	_	CharOffset=49:51
+13	el	el	DET	da0ms0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	CharOffset=52:54
+14	centro	centro	NOUN	ncms000	Gender=Masc|Number=Sing	8	obl	_	CharOffset=55:61
+15	mismo	mismo	ADJ	aq0ms0	Gender=Masc|Number=Sing	14	amod	_	CharOffset=62:67
+16	de	de	ADP	sps00	_	18	case	_	CharOffset=68:70
+17	su	su	DET	dp3cs0	Number=Sing|Person=3|Poss=Yes|PronType=Prs	18	det	_	CharOffset=71:73
+18	espiral	espiral	NOUN	ncfs000	Gender=Fem|Number=Sing	14	nmod	_	CharOffset=74:81
+19	;	;	PUNCT	fx	PunctType=Semi	23	punct	_	CharOffset=81:82
+20	pero	pero	CCONJ	cc	_	23	cc	_	CharOffset=83:87
+21	el	el	DET	da0ms0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	22	det	_	CharOffset=88:90
+22	machete	machete	NOUN	ncms000	Gender=Masc|Number=Sing	23	nsubj	_	CharOffset=91:98
+23	cayó	caer	VERB	vmis3s0	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	conj	_	CharOffset=99:103
+24	de	de	ADP	sps00	_	25	case	_	CharOffset=104:106
+25	lomo	lomo	NOUN	ncms000	Gender=Masc|Number=Sing	23	obl	_	CharOffset=107:111
+26	,	,	PUNCT	fc	PunctType=Comm	27	punct	_	CharOffset=111:112
+27	dislocando	dislocar	VERB	vmg0000	VerbForm=Ger	23	advcl	_	_
+28	le	él	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs	27	obl:arg	_	_
+29	las	el	DET	da0fp0	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	30	det	_	CharOffset=126:129
+30	vértebras	vértebra	NOUN	ncfp000	Gender=Fem|Number=Plur	27	obj	_	CharOffset=130:139
+31	.	.	PUNCT	fp	PunctType=Peri	3	punct	_	CharOffset=139:140
+
+# newdoc id = doc_5
+# sent_id = 1
+# text = El hombre se bajó hasta la mordedura, quitó las gotitas de sangre, y durante un instante contempló.
+1	El	el	DET	da0ms0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	CharOffset=0:2
+2	hombre	hombre	NOUN	ncms000	Gender=Masc|Number=Sing	4	nsubj	_	CharOffset=3:9
+3	se	él	PRON	p0300000	Case=Acc|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	4	expl:pv	_	CharOffset=10:12
+4	bajó	bajar	VERB	vmis3s0	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	CharOffset=13:17
+5	hasta	hasta	ADP	sps00	_	7	case	_	CharOffset=18:23
+6	la	el	DET	da0fs0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	CharOffset=24:26
+7	mordedura	mordedura	NOUN	ncfs000	Gender=Fem|Number=Sing	4	obl	_	CharOffset=27:36
+8	,	,	PUNCT	fc	PunctType=Comm	9	punct	_	CharOffset=36:37
+9	quitó	quitar	VERB	vmis3s0	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	advcl	_	CharOffset=38:43
+10	las	el	DET	da0fp0	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	11	det	_	CharOffset=44:47
+11	gotitas	gotita	NOUN	ncfp000	Gender=Fem|Number=Plur	9	obj	_	CharOffset=48:55
+12	de	de	ADP	sps00	_	13	case	_	CharOffset=56:58
+13	sangre	sangre	NOUN	ncfs000	Gender=Fem|Number=Sing	11	nmod	_	CharOffset=59:65
+14	,	,	PUNCT	fc	PunctType=Comm	19	punct	_	CharOffset=65:66
+15	y	y	CCONJ	cc	_	19	cc	_	CharOffset=67:68
+16	durante	durante	ADP	sps00	_	18	case	_	CharOffset=69:76
+17	un	uno	DET	di0ms0	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	18	det	_	CharOffset=77:79
+18	instante	instante	NOUN	ncms000	Gender=Masc|Number=Sing	19	obl	_	CharOffset=80:88
+19	contempló	contemplar	VERB	vmis3s0	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	conj	_	CharOffset=89:98
+20	.	.	PUNCT	fp	PunctType=Peri	4	punct	_	CharOffset=98:99
+
+# newdoc id = doc_6
+# sent_id = 1
+# text = Un dolor agudo nacía de los dos puntitos violetas, y comenzaba a invadir todo el pie.
+1	Un	uno	DET	di0ms0	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	2	det	_	CharOffset=0:2
+2	dolor	dolor	NOUN	ncms000	Gender=Masc|Number=Sing	4	nsubj	_	CharOffset=3:8
+3	agudo	agudo	ADJ	aq0ms0	Gender=Masc|Number=Sing	2	amod	_	CharOffset=9:14
+4	nacía	nacer	VERB	vmii3s0	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	CharOffset=15:20
+5	de	de	ADP	sps00	_	8	case	_	CharOffset=21:23
+6	los	el	DET	da0mp0	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	8	det	_	CharOffset=24:27
+7	dos	dos	NUM	dn0cp0	NumForm=Word|NumType=Card|Number=Plur	6	nummod	_	CharOffset=28:31
+8	puntitos	puntito	NOUN	ncmp000	Gender=Masc|Number=Plur	4	obl	_	CharOffset=32:40
+9	violetas	violeto	ADJ	aq0cp0	Number=Plur	8	amod	_	CharOffset=41:49
+10	,	,	PUNCT	fc	PunctType=Comm	12	punct	_	CharOffset=49:50
+11	y	y	CCONJ	cc	_	12	cc	_	CharOffset=51:52
+12	comenzaba	comenzar	VERB	vmii3s0	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	4	conj	_	CharOffset=53:62
+13	a	a	ADP	sps00	_	14	mark	_	CharOffset=63:64
+14	invadir	invadir	VERB	vmn0000	VerbForm=Inf	12	xcomp	_	CharOffset=65:72
+15	todo	todo	DET	di0ms0	Gender=Masc|Number=Sing|PronType=Tot	16	det	_	CharOffset=73:77
+16	el	el	DET	da0ms0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	17	det	_	CharOffset=78:80
+17	pie	pie	NOUN	ncms000	Gender=Masc|Number=Sing	14	obj	_	CharOffset=81:84
+18	.	.	PUNCT	fp	PunctType=Peri	4	punct	_	CharOffset=84:85
+
+# newdoc id = doc_7
+# sent_id = 1
+# text = Apresuradamente se ligó el tobillo con su pañuelo y siguió por la picada hacia su rancho.
+1	Apresuradamente	apresuradamente	ADV	rg	_	3	advmod	_	CharOffset=0:15
+2	se	él	PRON	p0300000	Case=Acc|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	3	expl:pv	_	CharOffset=16:18
+3	ligó	ligar	VERB	vmis3s0	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	CharOffset=19:23
+4	el	el	DET	da0ms0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	CharOffset=24:26
+5	tobillo	tobillo	NOUN	ncms000	Gender=Masc|Number=Sing	3	nsubj	_	CharOffset=27:34
+6	con	con	ADP	sps00	_	8	case	_	CharOffset=35:38
+7	su	su	DET	dp3cs0	Number=Sing|Person=3|Poss=Yes|PronType=Prs	8	det	_	CharOffset=39:41
+8	pañuelo	pañuelo	NOUN	ncms000	Gender=Masc|Number=Sing	3	obl	_	CharOffset=42:49
+9	y	y	CCONJ	cc	_	10	cc	_	CharOffset=50:51
+10	siguió	seguir	VERB	vmis3s0	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	conj	_	CharOffset=52:58
+11	por	por	ADP	sps00	_	13	case	_	CharOffset=59:62
+12	la	el	DET	da0fs0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	CharOffset=63:65
+13	picada	picada	NOUN	ncfs000	Gender=Fem|Number=Sing	10	obl	_	CharOffset=66:72
+14	hacia	hacia	ADP	sps00	_	16	case	_	CharOffset=73:78
+15	su	su	DET	dp3cs0	Number=Sing|Person=3|Poss=Yes|PronType=Prs	16	det	_	CharOffset=79:81
+16	rancho	rancho	NOUN	ncms000	Gender=Masc|Number=Sing	10	obl	_	CharOffset=82:88
+17	.	.	PUNCT	fp	PunctType=Peri	3	punct	_	CharOffset=88:89
