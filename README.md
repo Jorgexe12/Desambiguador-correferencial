@@ -11,3 +11,5 @@ Además, tenemos varios archivos, vamos a explicar cada uno, en orden, y de dón
 - CulturaX.json: tiene 5000 filas del dataset CulturaX de HuggingFace, este subset será el que usemos para sacar las etiquetas.
 - patterns.json: tiene un conjunto de reglas con verbos con enclíticos para poder aplicar en preprocesado.
 - entrada.conllu: es el archivo de entrada de las predicciones del modelo que resuelve las referencias. Sale del archivo CulturaX y es un subset de este por tema de tiempos en preprocesar.
+
+- Enlace al repositorio: https://github.com/Jorgexe12/Desambiguador-correferencial
