@@ -1,0 +1,1699 @@
+{
+  "(?:c|C)óme((?:me|te|se|nos|os)?)((?:lo|la|le|los|las|les)?)": {
+    "base": "come",
+    "lemma": "comer",
+    "upos": "VERB",
+    "tense": "imperative",
+    "person": "tú"
+  },
+  "(?:c|C)om[eé]d((?:me|te|se|nos|os)?)((?:lo|la|le|los|las|les)?)": {
+    "base": "comed",
+    "lemma": "comer",
+    "upos": "VERB",
+    "tense": "imperative",
+    "person": "vosotros"
+  },
+  "(?:c|C)om[eé]r((?:me|te|se|nos|os)?)((?:lo|la|le|los|las|les)?)": {
+    "base": "comer",
+    "lemma": "comer",
+    "upos": "VERB",
+    "tense": "infinitive"
+  },
+  "(?:c|C)omi[eé]ndo((?:me|te|se|nos|os)?)((?:lo|la|le|los|las|les)?)": {
+    "base": "comiendo",
+    "lemma": "comer",
+    "upos": "VERB",
+    "tense": "gerund"
+  },
+  "(?:c|C)ométe((?:me|te|se|nos|os)?)((?:lo|la|le|los|las|les)?)": {
+    "base": "comete",
+    "lemma": "cometer",
+    "upos": "VERB",
+    "tense": "imperative",
+    "person": "tú"
+  },
+  "(?:c|C)omet[eé]d((?:me|te|se|nos|os)?)((?:lo|la|le|los|las|les)?)": {
+    "base": "cometed",
+    "lemma": "cometer",
+    "upos": "VERB",
+    "tense": "imperative",
+    "person": "vosotros"
+  },
+  "(?:c|C)omet[eé]r((?:me|te|se|nos|os)?)((?:lo|la|le|los|las|les)?)": {
+    "base": "cometer",
+    "lemma": "cometer",
+    "upos": "VERB",
+    "tense": "infinitive"
+  },
+  "(?:c|C)ometi[eé]ndo((?:me|te|se|nos|os)?)((?:lo|la|le|los|las|les)?)": {
+    "base": "cometiendo",
+    "lemma": "cometer",
+    "upos": "VERB",
+    "tense": "gerund"
+  },
+  "(?:v|V)íste((?:me|te|se|nos|os)?)((?:lo|la|los|las)?)": {
+    "base": "viste",
+    "lemma": "vestir",
+    "upos": "VERB",
+    "tense": "imperative",
+    "person": "tú"
+  },
+  "(?:v|V)estid((?:me|te|se|nos|os)?)((?:lo|la|le|los|las|les)?)": {
+    "base": "vestid",
+    "lemma": "vestir",
+    "upos": "VERB",
+    "tense": "imperative",
+    "person": "vosotros"
+  },
+  "(?:v|V)ist[eé]((?:me|te|se|nos|os)?)((?:lo|la|le|los|las|les)?)": {
+    "base": "viste",
+    "lemma": "vestir",
+    "upos": "VERB",
+    "tense": "imperative",
+    "person": "usted"
+  },
+  "(?:v|V)istamos((?:lo|la|le|los|las|les)?)": {
+    "base": "vistamos",
+    "lemma": "vestir",
+    "upos": "VERB",
+    "tense": "imperative",
+    "person": "nosotros"
+  },
+  "(?:v|V)istan((?:me|te|se|nos|os)?)((?:lo|la|le|los|las|les)?)": {
+    "base": "vistan",
+    "lemma": "vestir",
+    "upos": "VERB",
+    "tense": "imperative",
+    "person": "ustedes"
+  },
+  "(?:v|V)est[ií]r((?:me|te|se|nos|os)?)((?:lo|la|le|los|las|les)?)": {
+    "base": "vestir",
+    "lemma": "vestir",
+    "upos": "VERB",
+    "tense": "infinitive"
+  },
+  "(?:v|V)isti[eé]ndo((?:me|te|se|nos|os)?)((?:lo|la|le|los|las|les)?)": {
+    "base": "vistiendo",
+    "lemma": "vestir",
+    "upos": "VERB",
+    "tense": "gerund"
+  },
+  "(?:a|A)cu[eé]s(?:ta|te)((?:me|te|se|nos|os)?)((?:lo|la|le|los|las|les)?)": {
+    "base": "acuesta",
+    "lemma": "acostar",
+    "upos": "VERB",
+    "tense": "imperative",
+    "person": "tú"
+  },
+  "(?:a|A)costad((?:me|te|se|nos|os)?)((?:lo|la|le|los|las|les)?)": {
+    "base": "acostad",
+    "lemma": "acostar",
+    "upos": "VERB",
+    "tense": "imperative",
+    "person": "vosotros"
+  },
+  "(?:a|A)cu[eé]ste((?:me|te|se|nos|os)?)((?:lo|la|le|los|las|les)?)": {
+    "base": "acueste",
+    "lemma": "acostar",
+    "upos": "VERB",
+    "tense": "imperative",
+    "person": "usted"
+  },
+  "(?:a|A)costemos((?:lo|la|le|los|las|les)?)": {
+    "base": "acostemos",
+    "lemma": "acostar",
+    "upos": "VERB",
+    "tense": "imperative",
+    "person": "nosotros"
+  },
+  "(?:a|A)cu[eé]sten((?:me|te|se|nos|os)?)((?:lo|la|le|los|las|les)?)": {
+    "base": "acuesten",
+    "lemma": "acostar",
+    "upos": "VERB",
+    "tense": "imperative",
+    "person": "ustedes"
+  },
+  "(?:a|A)cost[aá]r((?:me|te|se|nos|os)?)((?:lo|la|le|los|las|les)?)": {
+    "base": "acostar",
+    "lemma": "acostar",
+    "upos": "VERB",
+    "tense": "infinitive"
+  },
+  "(?:a|A)costando((?:me|te|se|nos|os)?)((?:lo|la|le|los|las|les)?)": {
+    "base": "acostando",
+    "lemma": "acostar",
+    "upos": "VERB",
+    "tense": "gerund"
+  },
+  "(?:d|D)[ií]((?:me|te|se|nos|os)?)((?:le|lo|la|les|los|las)?)": {
+    "base": "di",
+    "lemma": "decir",
+    "upos": "VERB",
+    "tense": "imperative",
+    "person": "tú"
+  },
+  "(?:d|D)ecid((?:me|te|se|nos|os)?)((?:lo|la|le|los|las|les)?)": {
+    "base": "decid",
+    "lemma": "decir",
+    "upos": "VERB",
+    "tense": "imperative",
+    "person": "vosotros"
+  },
+  "(?:d|D)iga((?:me|te|se|nos|os)?)((?:lo|la|le|los|las|les)?)": {
+    "base": "diga",
+    "lemma": "decir",
+    "upos": "VERB",
+    "tense": "imperative",
+    "person": "usted"
+  },
+  "(?:d|D)igamos((?:lo|la|le|los|las|les)?)": {
+    "base": "digamos",
+    "lemma": "decir",
+    "upos": "VERB",
+    "tense": "imperative",
+    "person": "nosotros"
+  },
+  "(?:d|D)igan((?:me|te|se|nos|os)?)((?:lo|la|le|los|las|les)?)": {
+    "base": "digan",
+    "lemma": "decir",
+    "upos": "VERB",
+    "tense": "imperative",
+    "person": "ustedes"
+  },
+  "(?:d|D)ec[ií]r((?:me|te|se|nos|os)?)((?:lo|la|le|los|las|les)?)": {
+    "base": "decir",
+    "lemma": "decir",
+    "upos": "VERB",
+    "tense": "infinitive"
+  },
+  "(?:d|D)ici[eé]ndo((?:me|te|se|nos|os)?)((?:lo|la|le|los|las|les)?)": {
+    "base": "diciendo",
+    "lemma": "decir",
+    "upos": "VERB",
+    "tense": "gerund"
+  },
+  "(?:m|M)u[eé]stra((?:me|te|se|nos|os)?)((?:lo|la|le|los|las|le)?)": {
+    "base": "muestra",
+    "lemma": "mostrar",
+    "upos": "VERB",
+    "tense": "imperative",
+    "person": "tú"
+  },
+  "(?:m|M)ostrad((?:me|te|se|nos|os)?)((?:lo|la|le|los|las|les)?)": {
+    "base": "mostrad",
+    "lemma": "mostrar",
+    "upos": "VERB",
+    "tense": "imperative",
+    "person": "vosotros"
+  },
+  "(?:m|M)u[eé]stre((?:me|te|se|nos|os)?)((?:lo|la|le|los|las|les)?)": {
+    "base": "muestre",
+    "lemma": "mostrar",
+    "upos": "VERB",
+    "tense": "imperative",
+    "person": "usted"
+  },
+  "(?:m|M)ostremos((?:lo|la|le|los|las|les)?)": {
+    "base": "mostremos",
+    "lemma": "mostrar",
+    "upos": "VERB",
+    "tense": "imperative",
+    "person": "nosotros"
+  },
+  "(?:m|M)u[eé]stren((?:me|te|se|nos|os)?)((?:lo|la|le|los|las|les)?)": {
+    "base": "muestren",
+    "lemma": "mostrar",
+    "upos": "VERB",
+    "tense": "imperative",
+    "person": "ustedes"
+  },
+  "(?:m|M)ostr[aá]r((?:me|te|se|nos|os)?)((?:lo|la|le|los|las|les)?)": {
+    "base": "mostrar",
+    "lemma": "mostrar",
+    "upos": "VERB",
+    "tense": "infinitive"
+  },
+  "(?:m|M)ostrando((?:me|te|se|nos|os)?)((?:lo|la|le|los|las|les)?)": {
+    "base": "mostrando",
+    "lemma": "mostrar",
+    "upos": "VERB",
+    "tense": "gerund"
+  },
+  "(?:j|J)ugu[ée]mo((?:nos))((?:lo|la|le|los|las|les)?)": {
+    "base": "juguemo",
+    "lemma": "jugar",
+    "upos": "VERB",
+    "tense": "imperative",
+    "person": "nosotros"
+  },
+  "(?:j|J)uéguen((?:me|te|se|nos)?)((?:lo|la|le|los|las|les)?)": {
+    "base": "jueguen",
+    "lemma": "jugar",
+    "upos": "VERB",
+    "tense": "imperative",
+    "person": "ustedes"
+  },
+  "(?:j|J)uguémos((?:lo|la|le|los|las|les)?)": {
+    "base": "juguemos",
+    "lemma": "jugar",
+    "upos": "VERB",
+    "tense": "imperative",
+    "person": "nosotros"
+  },
+  "(?:j|J)u[eé]g(?:a|ue)((?:me|te|se|nos)?)((?:lo|la|le|los|las|les)?)": {
+    "base": "juega",
+    "lemma": "jugar",
+    "upos": "VERB",
+    "tense": "imperative",
+    "person": "tú/usted"
+  },
+  "(?:j|J)ugád ((?:me|te|se|nos)?)((?:lo|la|le|los|las|les)?)": {
+    "base": "jugad",
+    "lemma": "jugar",
+    "upos": "VERB",
+    "tense": "imperative",
+    "person": "vosotros"
+  },
+  "(?:j|J)ugáos((?:lo|la|los|las))": {
+    "base": "jugad",
+    "lemma": "jugar",
+    "upos": "VERB",
+    "tense": "imperative",
+    "person": "vosotros"
+  },
+  "(?:j|J)ug[aá]r((?:me|te|se|nos)?)((?:lo|la|le|los|las|les)?)": {
+    "base": "jugar",
+    "lemma": "jugar",
+    "upos": "VERB",
+    "tense": "infinitive"
+  },
+  "(?:j|J)ug[aá]ndo((?:me|te|se|nos)?)((?:lo|la|le|los|las|les)?)": {
+    "base": "jugando",
+    "lemma": "jugar",
+    "upos": "VERB",
+    "tense": "gerund"
+  },
+  "(?:h|H)a[aá]bla((?:me|te|se|nos|os)?)((?:lo|la|le|los|las|les)?)": {
+    "base": "habla",
+    "lemma": "hablar",
+    "upos": "VERB",
+    "tense": "imperative",
+    "person": "tú"
+  },
+  "(?:h|H)ablad((?:me|te|se|nos|os)?)((?:lo|la|le|los|las|les)?)": {
+    "base": "hablad",
+    "lemma": "hablar",
+    "upos": "VERB",
+    "tense": "imperative",
+    "person": "vosotros"
+  },
+  "(?:h|H)able((?:me|te|se|nos|os)?)((?:lo|la|le|los|las|les)?)": {
+    "base": "hable",
+    "lemma": "hablar",
+    "upos": "VERB",
+    "tense": "imperative",
+    "person": "usted"
+  },
+  "(?:h|H)ablemos((?:lo|la|le|los|las|les)?)": {
+    "base": "hablemos",
+    "lemma": "hablar",
+    "upos": "VERB",
+    "tense": "imperative",
+    "person": "nosotros"
+  },
+  "(?:h|H)ablen((?:me|te|se|nos|os)?)((?:lo|la|le|los|las|les)?)": {
+    "base": "hablen",
+    "lemma": "hablar",
+    "upos": "VERB",
+    "tense": "imperative",
+    "person": "ustedes"
+  },
+  "(?:h|H)abl[aá]r((?:me|te|se|nos|os)?)((?:lo|la|le|los|las|les)?)": {
+    "base": "hablar",
+    "lemma": "hablar",
+    "upos": "VERB",
+    "tense": "infinitive"
+  },
+  "(?:h|H)ablando((?:me|te|se|nos|os)?)((?:lo|la|le|los|las|les)?)": {
+    "base": "hablando",
+    "lemma": "hablar",
+    "upos": "VERB",
+    "tense": "gerund"
+  },
+  "(?:t|T)o[aá]ma((?:me|te|se|nos|os)?)((?:lo|la|le|los|las|les)?)": {
+    "base": "toma",
+    "lemma": "tomar",
+    "upos": "VERB",
+    "tense": "imperative",
+    "person": "tú"
+  },
+  "(?:t|T)omad((?:me|te|se|nos|os)?)((?:lo|la|le|los|las|les)?)": {
+    "base": "tomad",
+    "lemma": "tomar",
+    "upos": "VERB",
+    "tense": "imperative",
+    "person": "vosotros"
+  },
+  "(?:t|T)ome((?:me|te|se|nos|os)?)((?:lo|la|le|los|las|les)?)": {
+    "base": "tome",
+    "lemma": "tomar",
+    "upos": "VERB",
+    "tense": "imperative",
+    "person": "usted"
+  },
+  "(?:t|T)omemos((?:lo|la|le|los|las|les)?)": {
+    "base": "tomemos",
+    "lemma": "tomar",
+    "upos": "VERB",
+    "tense": "imperative",
+    "person": "nosotros"
+  },
+  "(?:t|T)omen((?:me|te|se|nos|os)?)((?:lo|la|le|los|las|les)?)": {
+    "base": "tomen",
+    "lemma": "tomar",
+    "upos": "VERB",
+    "tense": "imperative",
+    "person": "ustedes"
+  },
+  "(?:t|T)om[aá]r((?:me|te|se|nos|os)?)((?:lo|la|le|los|las|les)?)": {
+    "base": "tomar",
+    "lemma": "tomar",
+    "upos": "VERB",
+    "tense": "infinitive"
+  },
+  "(?:t|T)omando((?:me|te|se|nos|os)?)((?:lo|la|le|los|las|les)?)": {
+    "base": "tomando",
+    "lemma": "tomar",
+    "upos": "VERB",
+    "tense": "gerund"
+  },
+  "(?:p|P)o[aá]n((?:me|te|se|nos|os)?)((?:lo|la|le|los|las|les)?)": {
+    "base": "pon",
+    "lemma": "poner",
+    "upos": "VERB",
+    "tense": "imperative",
+    "person": "tú"
+  },
+  "(?:p|P)oned((?:me|te|se|nos|os)?)((?:lo|la|le|los|las|les)?)": {
+    "base": "poned",
+    "lemma": "poner",
+    "upos": "VERB",
+    "tense": "imperative",
+    "person": "vosotros"
+  },
+  "(?:p|P)onga((?:me|te|se|nos|os)?)((?:lo|la|le|los|las|les)?)": {
+    "base": "ponga",
+    "lemma": "poner",
+    "upos": "VERB",
+    "tense": "imperative",
+    "person": "usted"
+  },
+  "(?:p|P)ongamos((?:lo|la|le|los|las|les)?)": {
+    "base": "pongamos",
+    "lemma": "poner",
+    "upos": "VERB",
+    "tense": "imperative",
+    "person": "nosotros"
+  },
+  "(?:p|P)ongan((?:me|te|se|nos|os)?)((?:lo|la|le|los|las|les)?)": {
+    "base": "pongan",
+    "lemma": "poner",
+    "upos": "VERB",
+    "tense": "imperative",
+    "person": "ustedes"
+  },
+  "(?:p|P)on[eé]r((?:me|te|se|nos|os)?)((?:lo|la|le|los|las|les)?)": {
+    "base": "poner",
+    "lemma": "poner",
+    "upos": "VERB",
+    "tense": "infinitive"
+  },
+  "(?:p|P)oni[eé]ndo((?:me|te|se|nos|os)?)((?:lo|la|le|los|las|les)?)": {
+    "base": "poniendo",
+    "lemma": "poner",
+    "upos": "VERB",
+    "tense": "gerund"
+  },
+  "(?:h|H)a[aá]z((?:me|te|se|nos|os)?)((?:lo|la|le|los|las|les)?)": {
+    "base": "haz",
+    "lemma": "hacer",
+    "upos": "VERB",
+    "tense": "imperative",
+    "person": "tú"
+  },
+  "(?:h|H)aced((?:me|te|se|nos|os)?)((?:lo|la|le|los|las|les)?)": {
+    "base": "haced",
+    "lemma": "hacer",
+    "upos": "VERB",
+    "tense": "imperative",
+    "person": "vosotros"
+  },
+  "(?:h|H)aga((?:me|te|se|nos|os)?)((?:lo|la|le|los|las|les)?)": {
+    "base": "haga",
+    "lemma": "hacer",
+    "upos": "VERB",
+    "tense": "imperative",
+    "person": "usted"
+  },
+  "(?:h|H)agamos((?:lo|la|le|los|las|les)?)": {
+    "base": "hagamos",
+    "lemma": "hacer",
+    "upos": "VERB",
+    "tense": "imperative",
+    "person": "nosotros"
+  },
+  "(?:h|H)agan((?:me|te|se|nos|os)?)((?:lo|la|le|los|las|les)?)": {
+    "base": "hagan",
+    "lemma": "hacer",
+    "upos": "VERB",
+    "tense": "imperative",
+    "person": "ustedes"
+  },
+  "(?:h|H)ac[eé]r((?:me|te|se|nos|os)?)((?:lo|la|le|los|las|les)?)": {
+    "base": "hacer",
+    "lemma": "hacer",
+    "upos": "VERB",
+    "tense": "infinitive"
+  },
+  "(?:h|H)acie[eé]ndo((?:me|te|se|nos|os)?)((?:lo|la|le|los|las|les)?)": {
+    "base": "haciendo",
+    "lemma": "hacer",
+    "upos": "VERB",
+    "tense": "gerund"
+  },
+  "(?:t|T)e[aá]n((?:me|te|se|nos|os)?)((?:lo|la|le|los|las|les)?)": {
+    "base": "ten",
+    "lemma": "tener",
+    "upos": "VERB",
+    "tense": "imperative",
+    "person": "tú"
+  },
+  "(?:t|T)ened((?:me|te|se|nos|os)?)((?:lo|la|le|los|las|les)?)": {
+    "base": "tened",
+    "lemma": "tener",
+    "upos": "VERB",
+    "tense": "imperative",
+    "person": "vosotros"
+  },
+  "(?:t|T)enga((?:me|te|se|nos|os)?)((?:lo|la|le|los|las|les)?)": {
+    "base": "tenga",
+    "lemma": "tener",
+    "upos": "VERB",
+    "tense": "imperative",
+    "person": "usted"
+  },
+  "(?:t|T)engamos((?:lo|la|le|los|las|les)?)": {
+    "base": "tengamos",
+    "lemma": "tener",
+    "upos": "VERB",
+    "tense": "imperative",
+    "person": "nosotros"
+  },
+  "(?:t|T)engan((?:me|te|se|nos|os)?)((?:lo|la|le|los|las|les)?)": {
+    "base": "tengan",
+    "lemma": "tener",
+    "upos": "VERB",
+    "tense": "imperative",
+    "person": "ustedes"
+  },
+  "(?:t|T)en[eé]r((?:me|te|se|nos|os)?)((?:lo|la|le|los|las|les)?)": {
+    "base": "tener",
+    "lemma": "tener",
+    "upos": "VERB",
+    "tense": "infinitive"
+  },
+  "(?:t|T)enie[eé]ndo((?:me|te|se|nos|os)?)((?:lo|la|le|los|las|les)?)": {
+    "base": "teniendo",
+    "lemma": "tener",
+    "upos": "VERB",
+    "tense": "gerund"
+  },
+  "(?:s|S)a[aá]l((?:me|te|se|nos|os)?)((?:lo|la|le|los|las|les)?)": {
+    "base": "sal",
+    "lemma": "salir",
+    "upos": "VERB",
+    "tense": "imperative",
+    "person": "tú"
+  },
+  "(?:s|S)alid((?:me|te|se|nos|os)?)((?:lo|la|le|los|las|les)?)": {
+    "base": "salid",
+    "lemma": "salir",
+    "upos": "VERB",
+    "tense": "imperative",
+    "person": "vosotros"
+  },
+  "(?:s|S)alga((?:me|te|se|nos|os)?)((?:lo|la|le|los|las|les)?)": {
+    "base": "salga",
+    "lemma": "salir",
+    "upos": "VERB",
+    "tense": "imperative",
+    "person": "usted"
+  },
+  "(?:s|S)algamos((?:lo|la|le|los|las|les)?)": {
+    "base": "salgamos",
+    "lemma": "salir",
+    "upos": "VERB",
+    "tense": "imperative",
+    "person": "nosotros"
+  },
+  "(?:s|S)algan((?:me|te|se|nos|os)?)((?:lo|la|le|los|las|les)?)": {
+    "base": "salgan",
+    "lemma": "salir",
+    "upos": "VERB",
+    "tense": "imperative",
+    "person": "ustedes"
+  },
+  "(?:s|S)al[ií]r((?:me|te|se|nos|os)?)((?:lo|la|le|los|las|les)?)": {
+    "base": "salir",
+    "lemma": "salir",
+    "upos": "VERB",
+    "tense": "infinitive"
+  },
+  "(?:s|S)alie[eé]ndo((?:me|te|se|nos|os)?)((?:lo|la|le|los|las|les)?)": {
+    "base": "saliendo",
+    "lemma": "salir",
+    "upos": "VERB",
+    "tense": "gerund"
+  },
+  "(?:v|V)e[aá]n((?:me|te|se|nos|os)?)((?:lo|la|le|los|las|les)?)": {
+    "base": "ven",
+    "lemma": "venir",
+    "upos": "VERB",
+    "tense": "imperative",
+    "person": "tú"
+  },
+  "(?:v|V)ened((?:me|te|se|nos|os)?)((?:lo|la|le|los|las|les)?)": {
+    "base": "vened",
+    "lemma": "venir",
+    "upos": "VERB",
+    "tense": "imperative",
+    "person": "vosotros"
+  },
+  "(?:v|V)enga((?:me|te|se|nos|os)?)((?:lo|la|le|los|las|les)?)": {
+    "base": "venga",
+    "lemma": "venir",
+    "upos": "VERB",
+    "tense": "imperative",
+    "person": "usted"
+  },
+  "(?:v|V)engamos((?:lo|la|le|los|las|les)?)": {
+    "base": "vengamos",
+    "lemma": "venir",
+    "upos": "VERB",
+    "tense": "imperative",
+    "person": "nosotros"
+  },
+  "(?:v|V)engan((?:me|te|se|nos|os)?)((?:lo|la|le|los|las|les)?)": {
+    "base": "vengan",
+    "lemma": "venir",
+    "upos": "VERB",
+    "tense": "imperative",
+    "person": "ustedes"
+  },
+  "(?:v|V)en[ií]r((?:me|te|se|nos|os)?)((?:lo|la|le|los|las|les)?)": {
+    "base": "venir",
+    "lemma": "venir",
+    "upos": "VERB",
+    "tense": "infinitive"
+  },
+  "(?:v|V)inie[eé]ndo((?:me|te|se|nos|os)?)((?:lo|la|le|los|las|les)?)": {
+    "base": "viniendo",
+    "lemma": "venir",
+    "upos": "VERB",
+    "tense": "gerund"
+  },
+  "(?:d|D)a[aá]((?:me|te|se|nos|os)?)((?:lo|la|le|los|las|les)?)": {
+    "base": "da",
+    "lemma": "dar",
+    "upos": "VERB",
+    "tense": "imperative",
+    "person": "tú"
+  },
+  "(?:d|D)ad((?:me|te|se|nos|os)?)((?:lo|la|le|los|las|les)?)": {
+    "base": "dad",
+    "lemma": "dar",
+    "upos": "VERB",
+    "tense": "imperative",
+    "person": "vosotros"
+  },
+  "(?:d|D)[eé]((?:me|te|se|nos|os)?)((?:lo|la|le|los|las|les)?)": {
+    "base": "dé",
+    "lemma": "dar",
+    "upos": "VERB",
+    "tense": "imperative",
+    "person": "usted"
+  },
+  "(?:d|D)emos((?:lo|la|le|los|las|les)?)": {
+    "base": "demos",
+    "lemma": "dar",
+    "upos": "VERB",
+    "tense": "imperative",
+    "person": "nosotros"
+  },
+  "(?:d|D)[eé]n((?:me|te|se|nos|os)?)((?:lo|la|le|los|las|les)?)": {
+    "base": "den",
+    "lemma": "dar",
+    "upos": "VERB",
+    "tense": "imperative",
+    "person": "ustedes"
+  },
+  "(?:d|D)a[aá]r((?:me|te|se|nos|os)?)((?:lo|la|le|los|las|les)?)": {
+    "base": "dar",
+    "lemma": "dar",
+    "upos": "VERB",
+    "tense": "infinitive"
+  },
+  "(?:d|D)ando((?:me|te|se|nos|os)?)((?:lo|la|le|los|las|les)?)": {
+    "base": "dando",
+    "lemma": "dar",
+    "upos": "VERB",
+    "tense": "gerund"
+  },
+  "(?:v|V)e[aá]((?:me|te|se|nos|os)?)((?:lo|la|le|los|las|les)?)": {
+    "base": "ve",
+    "lemma": "ver",
+    "upos": "VERB",
+    "tense": "imperative",
+    "person": "tú"
+  },
+  "(?:v|V)ed((?:me|te|se|nos|os)?)((?:lo|la|le|los|las|les)?)": {
+    "base": "ved",
+    "lemma": "ver",
+    "upos": "VERB",
+    "tense": "imperative",
+    "person": "vosotros"
+  },
+  "(?:v|V)ea((?:me|te|se|nos|os)?)((?:lo|la|le|los|las|les)?)": {
+    "base": "vea",
+    "lemma": "ver",
+    "upos": "VERB",
+    "tense": "imperative",
+    "person": "usted"
+  },
+  "(?:v|V)eamos((?:lo|la|le|los|las|les)?)": {
+    "base": "veamos",
+    "lemma": "ver",
+    "upos": "VERB",
+    "tense": "imperative",
+    "person": "nosotros"
+  },
+  "(?:v|V)ean((?:me|te|se|nos|os)?)((?:lo|la|le|los|las|les)?)": {
+    "base": "vean",
+    "lemma": "ver",
+    "upos": "VERB",
+    "tense": "imperative",
+    "person": "ustedes"
+  },
+  "(?:v|V)e[eé]r((?:me|te|se|nos|os)?)((?:lo|la|le|los|las|les)?)": {
+    "base": "ver",
+    "lemma": "ver",
+    "upos": "VERB",
+    "tense": "infinitive"
+  },
+  "(?:v|V)ie[eé]ndo((?:me|te|se|nos|os)?)((?:lo|la|le|los|las|les)?)": {
+    "base": "viendo",
+    "lemma": "ver",
+    "upos": "VERB",
+    "tense": "gerund"
+  },
+  "(?:o|O)[ií]((?:me|te|se|nos|os)?)((?:lo|la|le|los|las|les)?)": {
+    "base": "oye",
+    "lemma": "oír",
+    "upos": "VERB",
+    "tense": "imperative",
+    "person": "tú"
+  },
+  "(?:o|O)íd((?:me|te|se|nos|os)?)((?:lo|la|le|los|las|les)?)": {
+    "base": "oíd",
+    "lemma": "oír",
+    "upos": "VERB",
+    "tense": "imperative",
+    "person": "vosotros"
+  },
+  "(?:o|O)iga((?:me|te|se|nos|os)?)((?:lo|la|le|los|las|les)?)": {
+    "base": "oiga",
+    "lemma": "oír",
+    "upos": "VERB",
+    "tense": "imperative",
+    "person": "usted"
+  },
+  "(?:o|O)igamos((?:lo|la|le|los|las|les)?)": {
+    "base": "oigamos",
+    "lemma": "oír",
+    "upos": "VERB",
+    "tense": "imperative",
+    "person": "nosotros"
+  },
+  "(?:o|O)igan((?:me|te|se|nos|os)?)((?:lo|la|le|los|las|les)?)": {
+    "base": "oigan",
+    "lemma": "oír",
+    "upos": "VERB",
+    "tense": "imperative",
+    "person": "ustedes"
+  },
+  "(?:o|O)[ií]r((?:me|te|se|nos|os)?)((?:lo|la|le|los|las|les)?)": {
+    "base": "oír",
+    "lemma": "oír",
+    "upos": "VERB",
+    "tense": "infinitive"
+  },
+  "(?:o|O)ye[eé]ndo((?:me|te|se|nos|os)?)((?:lo|la|le|los|las|les)?)": {
+    "base": "oyendo",
+    "lemma": "oír",
+    "upos": "VERB",
+    "tense": "gerund"
+  },
+  "(?:i|I)r((?:me|te|se|nos|os)?)((?:lo|la|le|los|las|les)?)": {
+    "base": "ir",
+    "lemma": "ir",
+    "upos": "VERB",
+    "tense": "infinitive"
+  },
+  "(?:y|Y)endo((?:me|te|se|nos|os)?)((?:lo|la|le|los|las|les)?)": {
+    "base": "yendo",
+    "lemma": "ir",
+    "upos": "VERB",
+    "tense": "gerund"
+  },
+  "(?:i|I)d((?:me|te|se|nos|os)?)((?:lo|la|le|los|las|les)?)": {
+    "base": "id",
+    "lemma": "ir",
+    "upos": "VERB",
+    "tense": "imperative",
+    "person": "vosotros"
+  },
+  "(?:v|V)aya((?:me|te|se|nos|os)?)((?:lo|la|le|los|las|les)?)": {
+    "base": "vaya",
+    "lemma": "ir",
+    "upos": "VERB",
+    "tense": "imperative",
+    "person": "usted"
+  },
+  "(?:v|V)ayamos((?:lo|la|le|los|las|les)?)": {
+    "base": "vayamos",
+    "lemma": "ir",
+    "upos": "VERB",
+    "tense": "imperative",
+    "person": "nosotros"
+  },
+  "(?:v|V)ayan((?:me|te|se|nos|os)?)((?:lo|la|le|los|las|les)?)": {
+    "base": "vayan",
+    "lemma": "ir",
+    "upos": "VERB",
+    "tense": "imperative",
+    "person": "ustedes"
+  },
+  "(?:s|S)e[eé]r((?:me|te|se|nos|os)?)((?:lo|la|le|los|las|les)?)": {
+    "base": "ser",
+    "lemma": "ser",
+    "upos": "VERB",
+    "tense": "infinitive"
+  },
+  "(?:s|S)iendo((?:me|te|se|nos|os)?)((?:lo|la|le|los|las|les)?)": {
+    "base": "siendo",
+    "lemma": "ser",
+    "upos": "VERB",
+    "tense": "gerund"
+  },
+  "(?:s|S)[eé]((?:me|te|se|nos|os)?)((?:lo|la|le|los|las|les)?)": {
+    "base": "sé",
+    "lemma": "ser",
+    "upos": "VERB",
+    "tense": "imperative",
+    "person": "tú"
+  },
+  "(?:s|S)ed((?:me|te|se|nos|os)?)((?:lo|la|le|los|las|les)?)": {
+    "base": "sed",
+    "lemma": "ser",
+    "upos": "VERB",
+    "tense": "imperative",
+    "person": "vosotros"
+  },
+  "(?:s|S)ea((?:me|te|se|nos|os)?)((?:lo|la|le|los|las|les)?)": {
+    "base": "sea",
+    "lemma": "ser",
+    "upos": "VERB",
+    "tense": "imperative",
+    "person": "usted"
+  },
+  "(?:s|S)eamos((?:lo|la|le|los|las|les)?)": {
+    "base": "seamos",
+    "lemma": "ser",
+    "upos": "VERB",
+    "tense": "imperative",
+    "person": "nosotros"
+  },
+  "(?:s|S)ean((?:me|te|se|nos|os)?)((?:lo|la|le|los|las|les)?)": {
+    "base": "sean",
+    "lemma": "ser",
+    "upos": "VERB",
+    "tense": "imperative",
+    "person": "ustedes"
+  },
+  "(?:e|E)st[aá]r((?:me|te|se|nos|os)?)((?:lo|la|le|los|las|les)?)": {
+    "base": "estar",
+    "lemma": "estar",
+    "upos": "VERB",
+    "tense": "infinitive"
+  },
+  "(?:e|E)stando((?:me|te|se|nos|os)?)((?:lo|la|le|los|las|les)?)": {
+    "base": "estando",
+    "lemma": "estar",
+    "upos": "VERB",
+    "tense": "gerund"
+  },
+  "(?:e|E)st[aá]((?:me|te|se|nos|os)?)((?:lo|la|le|los|las|les)?)": {
+    "base": "está",
+    "lemma": "estar",
+    "upos": "VERB",
+    "tense": "imperative",
+    "person": "tú"
+  },
+  "(?:e|E)stad((?:me|te|se|nos|os)?)((?:lo|la|le|los|las|les)?)": {
+    "base": "estad",
+    "lemma": "estar",
+    "upos": "VERB",
+    "tense": "imperative",
+    "person": "vosotros"
+  },
+  "(?:e|E)st[eé]((?:me|te|se|nos|os)?)((?:lo|la|le|los|las|les)?)": {
+    "base": "esté",
+    "lemma": "estar",
+    "upos": "VERB",
+    "tense": "imperative",
+    "person": "usted"
+  },
+  "(?:e|E)stemos((?:lo|la|le|los|las|les)?)": {
+    "base": "estemos",
+    "lemma": "estar",
+    "upos": "VERB",
+    "tense": "imperative",
+    "person": "nosotros"
+  },
+  "(?:e|E)st[eé]n((?:me|te|se|nos|os)?)((?:lo|la|le|los|las|les)?)": {
+    "base": "estén",
+    "lemma": "estar",
+    "upos": "VERB",
+    "tense": "imperative",
+    "person": "ustedes"
+  },
+  "(?:s|S)ab[eé]r((?:me|te|se|nos|os)?)((?:lo|la|le|los|las|les)?)": {
+    "base": "saber",
+    "lemma": "saber",
+    "upos": "VERB",
+    "tense": "infinitive"
+  },
+  "(?:s|S)abi[eé]ndo((?:me|te|se|nos|os)?)((?:lo|la|le|los|las|les)?)": {
+    "base": "sabiendo",
+    "lemma": "saber",
+    "upos": "VERB",
+    "tense": "gerund"
+  },
+  "(?:s|S)abe((?:me|te|se|nos|os)?)((?:lo|la|le|los|las|les)?)": {
+    "base": "sabe",
+    "lemma": "saber",
+    "upos": "VERB",
+    "tense": "imperative",
+    "person": "tú"
+  },
+  "(?:s|S)abed((?:me|te|se|nos|os)?)((?:lo|la|le|los|las|les)?)": {
+    "base": "sabed",
+    "lemma": "saber",
+    "upos": "VERB",
+    "tense": "imperative",
+    "person": "vosotros"
+  },
+  "(?:s|S)epa((?:me|te|se|nos|os)?)((?:lo|la|le|los|las|les)?)": {
+    "base": "sepa",
+    "lemma": "saber",
+    "upos": "VERB",
+    "tense": "imperative",
+    "person": "usted"
+  },
+  "(?:s|S)epamos((?:lo|la|le|los|las|les)?)": {
+    "base": "sepamos",
+    "lemma": "saber",
+    "upos": "VERB",
+    "tense": "imperative",
+    "person": "nosotros"
+  },
+  "(?:s|S)epan((?:me|te|se|nos|os)?)((?:lo|la|le|los|las|les)?)": {
+    "base": "sepan",
+    "lemma": "saber",
+    "upos": "VERB",
+    "tense": "imperative",
+    "person": "ustedes"
+  },
+  "(?:p|P)ens[aá]r((?:me|te|se|nos|os)?)((?:lo|la|le|los|las|les)?)": {
+    "base": "pensar",
+    "lemma": "pensar",
+    "upos": "VERB",
+    "tense": "infinitive"
+  },
+  "(?:p|P)ensando((?:me|te|se|nos|os)?)((?:lo|la|le|los|las|les)?)": {
+    "base": "pensando",
+    "lemma": "pensar",
+    "upos": "VERB",
+    "tense": "gerund"
+  },
+  "(?:p|P)ie[eé]nsa((?:me|te|se|nos|os)?)((?:lo|la|le|los|las|les)?)": {
+    "base": "piensa",
+    "lemma": "pensar",
+    "upos": "VERB",
+    "tense": "imperative",
+    "person": "tú"
+  },
+  "(?:p|P)ensad((?:me|te|se|nos|os)?)((?:lo|la|le|los|las|les)?)": {
+    "base": "pensad",
+    "lemma": "pensar",
+    "upos": "VERB",
+    "tense": "imperative",
+    "person": "vosotros"
+  },
+  "(?:p|P)ie[eé]nse((?:me|te|se|nos|os)?)((?:lo|la|le|los|las|les)?)": {
+    "base": "piense",
+    "lemma": "pensar",
+    "upos": "VERB",
+    "tense": "imperative",
+    "person": "usted"
+  },
+  "(?:p|P)ensemos((?:lo|la|le|los|las|les)?)": {
+    "base": "pensemos",
+    "lemma": "pensar",
+    "upos": "VERB",
+    "tense": "imperative",
+    "person": "nosotros"
+  },
+  "(?:p|P)ie[eé]nsen((?:me|te|se|nos|os)?)((?:lo|la|le|los|las|les)?)": {
+    "base": "piensen",
+    "lemma": "pensar",
+    "upos": "VERB",
+    "tense": "imperative",
+    "person": "ustedes"
+  },
+  "(?:q|Q)uer[eé]r((?:me|te|se|nos|os)?)((?:lo|la|le|los|las|les)?)": {
+    "base": "querer",
+    "lemma": "querer",
+    "upos": "VERB",
+    "tense": "infinitive"
+  },
+  "(?:q|Q)uerie[eé]ndo((?:me|te|se|nos|os)?)((?:lo|la|le|los|las|les)?)": {
+    "base": "queriendo",
+    "lemma": "querer",
+    "upos": "VERB",
+    "tense": "gerund"
+  },
+  "(?:q|Q)uie[eé]re((?:me|te|se|nos|os)?)((?:lo|la|le|los|las|les)?)": {
+    "base": "quiere",
+    "lemma": "querer",
+    "upos": "VERB",
+    "tense": "imperative",
+    "person": "tú"
+  },
+  "(?:q|Q)uere[d]((?:me|te|se|nos|os)?)((?:lo|la|le|los|las|les)?)": {
+    "base": "quered",
+    "lemma": "querer",
+    "upos": "VERB",
+    "tense": "imperative",
+    "person": "vosotros"
+  },
+  "(?:q|Q)uie[eé]ra((?:me|te|se|nos|os)?)((?:lo|la|le|los|las|les)?)": {
+    "base": "quiera",
+    "lemma": "querer",
+    "upos": "VERB",
+    "tense": "imperative",
+    "person": "usted"
+  },
+  "(?:q|Q)uer[aá]mos((?:lo|la|le|los|las|les)?)": {
+    "base": "queramos",
+    "lemma": "querer",
+    "upos": "VERB",
+    "tense": "imperative",
+    "person": "nosotros"
+  },
+  "(?:q|Q)uie[eé]ran((?:me|te|se|nos|os)?)((?:lo|la|le|los|las|les)?)": {
+    "base": "quieran",
+    "lemma": "querer",
+    "upos": "VERB",
+    "tense": "imperative",
+    "person": "ustedes"
+  },
+  "(?:p|P)od[eé]r((?:me|te|se|nos|os)?)((?:lo|la|le|los|las|les)?)": {
+    "base": "poder",
+    "lemma": "poder",
+    "upos": "VERB",
+    "tense": "infinitive"
+  },
+  "(?:p|P)odie[eé]ndo((?:me|te|se|nos|os)?)((?:lo|la|le|los|las|les)?)": {
+    "base": "pudiendo",
+    "lemma": "poder",
+    "upos": "VERB",
+    "tense": "gerund"
+  },
+  "(?:p|P)ue[eé]de((?:me|te|se|nos|os)?)((?:lo|la|le|los|las|les)?)": {
+    "base": "puede",
+    "lemma": "poder",
+    "upos": "VERB",
+    "tense": "imperative",
+    "person": "tú"
+  },
+  "(?:p|P)ode[d]((?:me|te|se|nos|os)?)((?:lo|la|le|los|las|les)?)": {
+    "base": "poded",
+    "lemma": "poder",
+    "upos": "VERB",
+    "tense": "imperative",
+    "person": "vosotros"
+  },
+  "(?:p|P)ue[eé]da((?:me|te|se|nos|os)?)((?:lo|la|le|los|las|les)?)": {
+    "base": "pueda",
+    "lemma": "poder",
+    "upos": "VERB",
+    "tense": "imperative",
+    "person": "usted"
+  },
+  "(?:p|P)od[aá]mos((?:lo|la|le|los|las|les)?)": {
+    "base": "podamos",
+    "lemma": "poder",
+    "upos": "VERB",
+    "tense": "imperative",
+    "person": "nosotros"
+  },
+  "(?:p|P)ue[eé]dan((?:me|te|se|nos|os)?)((?:lo|la|le|los|las|les)?)": {
+    "base": "puedan",
+    "lemma": "poder",
+    "upos": "VERB",
+    "tense": "imperative",
+    "person": "ustedes"
+  },
+  "(?:v|V)olv[eé]r((?:me|te|se|nos|os)?)((?:lo|la|le|los|las|les)?)": {
+    "base": "volver",
+    "lemma": "volver",
+    "upos": "VERB",
+    "tense": "infinitive"
+  },
+  "(?:v|V)olvie[eé]ndo((?:me|te|se|nos|os)?)((?:lo|la|le|los|las|les)?)": {
+    "base": "volviendo",
+    "lemma": "volver",
+    "upos": "VERB",
+    "tense": "gerund"
+  },
+  "(?:v|V)uelve((?:me|te|se|nos|os)?)((?:lo|la|le|los|las|les)?)": {
+    "base": "vuelve",
+    "lemma": "volver",
+    "upos": "VERB",
+    "tense": "imperative",
+    "person": "tú"
+  },
+  "(?:v|V)olved((?:me|te|se|nos|os)?)((?:lo|la|le|los|las|les)?)": {
+    "base": "volved",
+    "lemma": "volver",
+    "upos": "VERB",
+    "tense": "imperative",
+    "person": "vosotros"
+  },
+  "(?:v|V)uelva((?:me|te|se|nos|os)?)((?:lo|la|le|los|las|les)?)": {
+    "base": "vuelva",
+    "lemma": "volver",
+    "upos": "VERB",
+    "tense": "imperative",
+    "person": "usted"
+  },
+  "(?:v|V)olv[aá]mos((?:lo|la|le|los|las|les)?)": {
+    "base": "volvamos",
+    "lemma": "volver",
+    "upos": "VERB",
+    "tense": "imperative",
+    "person": "nosotros"
+  },
+  "(?:v|V)uelvan((?:me|te|se|nos|os)?)((?:lo|la|le|los|las|les)?)": {
+    "base": "vuelvan",
+    "lemma": "volver",
+    "upos": "VERB",
+    "tense": "imperative",
+    "person": "ustedes"
+  },
+  "(?:p|P)ed[ií]r((?:me|te|se|nos|os)?)((?:lo|la|le|los|las|les)?)": {
+    "base": "pedir",
+    "lemma": "pedir",
+    "upos": "VERB",
+    "tense": "infinitive"
+  },
+  "(?:p|P)idie[eé]ndo((?:me|te|se|nos|os)?)((?:lo|la|le|los|las|les)?)": {
+    "base": "pidiendo",
+    "lemma": "pedir",
+    "upos": "VERB",
+    "tense": "gerund"
+  },
+  "(?:p|P)ide((?:me|te|se|nos|os)?)((?:lo|la|le|los|las|les)?)": {
+    "base": "pide",
+    "lemma": "pedir",
+    "upos": "VERB",
+    "tense": "imperative",
+    "person": "tú"
+  },
+  "(?:p|P)eded((?:me|te|se|nos|os)?)((?:lo|la|le|los|las|les)?)": {
+    "base": "peded",
+    "lemma": "pedir",
+    "upos": "VERB",
+    "tense": "imperative",
+    "person": "vosotros"
+  },
+  "(?:p|P)ida((?:me|te|se|nos|os)?)((?:lo|la|le|los|las|les)?)": {
+    "base": "pida",
+    "lemma": "pedir",
+    "upos": "VERB",
+    "tense": "imperative",
+    "person": "usted"
+  },
+  "(?:p|P)id[aá]mos((?:lo|la|le|los|las|les)?)": {
+    "base": "pidamos",
+    "lemma": "pedir",
+    "upos": "VERB",
+    "tense": "imperative",
+    "person": "nosotros"
+  },
+  "(?:p|P)idan((?:me|te|se|nos|os)?)((?:lo|la|le|los|las|les)?)": {
+    "base": "pidan",
+    "lemma": "pedir",
+    "upos": "VERB",
+    "tense": "imperative",
+    "person": "ustedes"
+  },
+  "(?:s|S)egu[ií]r((?:me|te|se|nos|os)?)((?:lo|la|le|los|las|les)?)": {
+    "base": "seguir",
+    "lemma": "seguir",
+    "upos": "VERB",
+    "tense": "infinitive"
+  },
+  "(?:s|S)igui[eé]ndo((?:me|te|se|nos|os)?)((?:lo|la|le|los|las|les)?)": {
+    "base": "siguiendo",
+    "lemma": "seguir",
+    "upos": "VERB",
+    "tense": "gerund"
+  },
+  "(?:s|S)igue((?:me|te|se|nos|os)?)((?:lo|la|le|los|las|les)?)": {
+    "base": "sigue",
+    "lemma": "seguir",
+    "upos": "VERB",
+    "tense": "imperative",
+    "person": "tú"
+  },
+  "(?:s|S)eguid((?:me|te|se|nos|os)?)((?:lo|la|le|los|las|les)?)": {
+    "base": "seguid",
+    "lemma": "seguir",
+    "upos": "VERB",
+    "tense": "imperative",
+    "person": "vosotros"
+  },
+  "(?:s|S)iga((?:me|te|se|nos|os)?)((?:lo|la|le|los|las|les)?)": {
+    "base": "siga",
+    "lemma": "seguir",
+    "upos": "VERB",
+    "tense": "imperative",
+    "person": "usted"
+  },
+  "(?:s|S)ig[aá]mos((?:lo|la|le|los|las|les)?)": {
+    "base": "sigamos",
+    "lemma": "seguir",
+    "upos": "VERB",
+    "tense": "imperative",
+    "person": "nosotros"
+  },
+  "(?:s|S)igan((?:me|te|se|nos|os)?)((?:lo|la|le|los|las|les)?)": {
+    "base": "sigan",
+    "lemma": "seguir",
+    "upos": "VERB",
+    "tense": "imperative",
+    "person": "ustedes"
+  },
+  "(?:c|C)onsegu[ií]r((?:me|te|se|nos|os)?)((?:lo|la|le|los|las|les)?)": {
+    "base": "conseguir",
+    "lemma": "conseguir",
+    "upos": "VERB",
+    "tense": "infinitive"
+  },
+  "(?:c|C)onsigui[eé]ndo((?:me|te|se|nos|os)?)((?:lo|la|le|los|las|les)?)": {
+    "base": "consiguiendo",
+    "lemma": "conseguir",
+    "upos": "VERB",
+    "tense": "gerund"
+  },
+  "(?:c|C)onsigue((?:me|te|se|nos|os)?)((?:lo|la|le|los|las|les)?)": {
+    "base": "consigue",
+    "lemma": "conseguir",
+    "upos": "VERB",
+    "tense": "imperative",
+    "person": "tú"
+  },
+  "(?:c|C)onseguid((?:me|te|se|nos|os)?)((?:lo|la|le|los|las|les)?)": {
+    "base": "conseguid",
+    "lemma": "conseguir",
+    "upos": "VERB",
+    "tense": "imperative",
+    "person": "vosotros"
+  },
+  "(?:c|C)onsiga((?:me|te|se|nos|os)?)((?:lo|la|le|los|las|les)?)": {
+    "base": "consiga",
+    "lemma": "conseguir",
+    "upos": "VERB",
+    "tense": "imperative",
+    "person": "usted"
+  },
+  "(?:c|C)onsig[aá]mos((?:lo|la|le|los|las|les)?)": {
+    "base": "consigamos",
+    "lemma": "conseguir",
+    "upos": "VERB",
+    "tense": "imperative",
+    "person": "nosotros"
+  },
+  "(?:c|C)onsigan((?:me|te|se|nos|os)?)((?:lo|la|le|los|las|les)?)": {
+    "base": "consigan",
+    "lemma": "conseguir",
+    "upos": "VERB",
+    "tense": "imperative",
+    "person": "ustedes"
+  },
+  "(?:s|S)ent[ií]r((?:me|te|se|nos|os)?)((?:lo|la|le|los|las|les)?)": {
+    "base": "sentir",
+    "lemma": "sentir",
+    "upos": "VERB",
+    "tense": "infinitive"
+  },
+  "(?:s|S)intie[eé]ndo((?:me|te|se|nos|os)?)((?:lo|la|le|los|las|les)?)": {
+    "base": "sintiendo",
+    "lemma": "sentir",
+    "upos": "VERB",
+    "tense": "gerund"
+  },
+  "(?:s|S)iente((?:me|te|se|nos|os)?)((?:lo|la|le|los|las|les)?)": {
+    "base": "siente",
+    "lemma": "sentir",
+    "upos": "VERB",
+    "tense": "imperative",
+    "person": "tú"
+  },
+  "(?:s|S)entid((?:me|te|se|nos|os)?)((?:lo|la|le|los|las|les)?)": {
+    "base": "sentid",
+    "lemma": "sentir",
+    "upos": "VERB",
+    "tense": "imperative",
+    "person": "vosotros"
+  },
+  "(?:s|S)ienta((?:me|te|se|nos|os)?)((?:lo|la|le|los|las|les)?)": {
+    "base": "sienta",
+    "lemma": "sentir",
+    "upos": "VERB",
+    "tense": "imperative",
+    "person": "usted"
+  },
+  "(?:s|S)int[aá]mos((?:lo|la|le|los|las|les)?)": {
+    "base": "sintamos",
+    "lemma": "sentir",
+    "upos": "VERB",
+    "tense": "imperative",
+    "person": "nosotros"
+  },
+  "(?:s|S)ientan((?:me|te|se|nos|os)?)((?:lo|la|le|los|las|les)?)": {
+    "base": "sientan",
+    "lemma": "sentir",
+    "upos": "VERB",
+    "tense": "imperative",
+    "person": "ustedes"
+  },
+  "(?:e|E)ncon(?:tr|dr)[aá]r((?:me|te|se|nos|os)?)((?:lo|la|le|los|las|les)?)": {
+    "base": "encontrar",
+    "lemma": "encontrar",
+    "upos": "VERB",
+    "tense": "infinitive"
+  },
+  "(?:e|E)ncon(?:tr|dr)ando((?:me|te|se|nos|os)?)((?:lo|la|le|los|las|les)?)": {
+    "base": "encontrando",
+    "lemma": "encontrar",
+    "upos": "VERB",
+    "tense": "gerund"
+  },
+  "(?:e|E)ncu[eé]n(?:tr|dr)a((?:me|te|se|nos|os)?)((?:lo|la|le|los|las|les)?)": {
+    "base": "encuentra",
+    "lemma": "encontrar",
+    "upos": "VERB",
+    "tense": "imperative",
+    "person": "tú"
+  },
+  "(?:e|E)ncon(?:tr|dr)ad((?:me|te|se|nos|os)?)((?:lo|la|le|los|las|les)?)": {
+    "base": "encontrad",
+    "lemma": "encontrar",
+    "upos": "VERB",
+    "tense": "imperative",
+    "person": "vosotros"
+  },
+  "(?:e|E)ncu[eé]n(?:tr|dr)e((?:me|te|se|nos|os)?)((?:lo|la|le|los|las|les)?)": {
+    "base": "encuentre",
+    "lemma": "encontrar",
+    "upos": "VERB",
+    "tense": "imperative",
+    "person": "usted"
+  },
+  "(?:e|E)ncon(?:tr|dr)emos((?:lo|la|le|los|las|les)?)": {
+    "base": "encontremos",
+    "lemma": "encontrar",
+    "upos": "VERB",
+    "tense": "imperative",
+    "person": "nosotros"
+  },
+  "(?:e|E)ncu[eé]n(?:tr|dr)en((?:me|te|se|nos|os)?)((?:lo|la|le|los|las|les)?)": {
+    "base": "encuentren",
+    "lemma": "encontrar",
+    "upos": "VERB",
+    "tense": "imperative",
+    "person": "ustedes"
+  },
+  "(?:r|R)eco(?:rd|rd)[aá]r((?:me|te|se|nos|os)?)((?:lo|la|le|los|las|les)?)": {
+    "base": "recordar",
+    "lemma": "recordar",
+    "upos": "VERB",
+    "tense": "infinitive"
+  },
+  "(?:r|R)eco(?:rd|rd)ando((?:me|te|se|nos|os)?)((?:lo|la|le|los|las|les)?)": {
+    "base": "recordando",
+    "lemma": "recordar",
+    "upos": "VERB",
+    "tense": "gerund"
+  },
+  "(?:r|R)ecue[eé]r(?:d|rd)a((?:me|te|se|nos|os)?)((?:lo|la|le|los|las|les)?)": {
+    "base": "recuerda",
+    "lemma": "recordar",
+    "upos": "VERB",
+    "tense": "imperative",
+    "person": "tú"
+  },
+  "(?:r|R)eco(?:rd|rd)ad((?:me|te|se|nos|os)?)((?:lo|la|le|los|las|les)?)": {
+    "base": "recordad",
+    "lemma": "recordar",
+    "upos": "VERB",
+    "tense": "imperative",
+    "person": "vosotros"
+  },
+  "(?:r|R)ecue[eé]r(?:d|rd)e((?:me|te|se|nos|os)?)((?:lo|la|le|los|las|les)?)": {
+    "base": "recuerde",
+    "lemma": "recordar",
+    "upos": "VERB",
+    "tense": "imperative",
+    "person": "usted"
+  },
+  "(?:r|R)eco(?:rd|rd)emos((?:lo|la|le|los|las|les)?)": {
+    "base": "recordemos",
+    "lemma": "recordar",
+    "upos": "VERB",
+    "tense": "imperative",
+    "person": "nosotros"
+  },
+  "(?:r|R)ecue[eé]r(?:d|rd)en((?:me|te|se|nos|os)?)((?:lo|la|le|los|las|les)?)": {
+    "base": "recuerden",
+    "lemma": "recordar",
+    "upos": "VERB",
+    "tense": "imperative",
+    "person": "ustedes"
+  },
+  "(?:e|E)ntend[eé]r((?:me|te|se|nos|os)?)((?:lo|la|le|los|las|les)?)": {
+    "base": "entender",
+    "lemma": "entender",
+    "upos": "VERB",
+    "tense": "infinitive"
+  },
+  "(?:e|E)ntendie[eé]ndo((?:me|te|se|nos|os)?)((?:lo|la|le|los|las|les)?)": {
+    "base": "entendiendo",
+    "lemma": "entender",
+    "upos": "VERB",
+    "tense": "gerund"
+  },
+  "(?:e|E)ntie[eé]nde((?:me|te|se|nos|os)?)((?:lo|la|le|los|las|les)?)": {
+    "base": "entiende",
+    "lemma": "entender",
+    "upos": "VERB",
+    "tense": "imperative",
+    "person": "tú"
+  },
+  "(?:e|E)ntended((?:me|te|se|nos|os)?)((?:lo|la|le|los|las|les)?)": {
+    "base": "entended",
+    "lemma": "entender",
+    "upos": "VERB",
+    "tense": "imperative",
+    "person": "vosotros"
+  },
+  "(?:e|E)ntie[eé]nda((?:me|te|se|nos|os)?)((?:lo|la|le|los|las|les)?)": {
+    "base": "entienda",
+    "lemma": "entender",
+    "upos": "VERB",
+    "tense": "imperative",
+    "person": "usted"
+  },
+  "(?:e|E)ntend[aá]mos((?:lo|la|le|los|las|les)?)": {
+    "base": "entendamos",
+    "lemma": "entender",
+    "upos": "VERB",
+    "tense": "imperative",
+    "person": "nosotros"
+  },
+  "(?:e|E)ntie[eé]ndan((?:me|te|se|nos|os)?)((?:lo|la|le|los|las|les)?)": {
+    "base": "entiendan",
+    "lemma": "entender",
+    "upos": "VERB",
+    "tense": "imperative",
+    "person": "ustedes"
+  },
+  "(?:e|E)scrib[ií]r((?:me|te|se|nos|os)?)((?:lo|la|le|los|las|les)?)": {
+    "base": "escribir",
+    "lemma": "escribir",
+    "upos": "VERB",
+    "tense": "infinitive"
+  },
+  "(?:e|E)scribie[eé]ndo((?:me|te|se|nos|os)?)((?:lo|la|le|los|las|les)?)": {
+    "base": "escribiendo",
+    "lemma": "escribir",
+    "upos": "VERB",
+    "tense": "gerund"
+  },
+  "(?:e|E)scribe((?:me|te|se|nos|os)?)((?:lo|la|le|los|las|les)?)": {
+    "base": "escribe",
+    "lemma": "escribir",
+    "upos": "VERB",
+    "tense": "imperative",
+    "person": "tú"
+  },
+  "(?:e|E)scribid((?:me|te|se|nos|os)?)((?:lo|la|le|los|las|les)?)": {
+    "base": "escribid",
+    "lemma": "escribir",
+    "upos": "VERB",
+    "tense": "imperative",
+    "person": "vosotros"
+  },
+  "(?:e|E)scriba((?:me|te|se|nos|os)?)((?:lo|la|le|los|las|les)?)": {
+    "base": "escriba",
+    "lemma": "escribir",
+    "upos": "VERB",
+    "tense": "imperative",
+    "person": "usted"
+  },
+  "(?:e|E)scrib[aá]mos((?:lo|la|le|los|las|les)?)": {
+    "base": "escribamos",
+    "lemma": "escribir",
+    "upos": "VERB",
+    "tense": "imperative",
+    "person": "nosotros"
+  },
+  "(?:e|E)scriban((?:me|te|se|nos|os)?)((?:lo|la|le|los|las|les)?)": {
+    "base": "escriban",
+    "lemma": "escribir",
+    "upos": "VERB",
+    "tense": "imperative",
+    "person": "ustedes"
+  },
+  "(?:v|V)iv[ií]r((?:me|te|se|nos|os)?)((?:lo|la|le|los|las|les)?)": {
+    "base": "vivir",
+    "lemma": "vivir",
+    "upos": "VERB",
+    "tense": "infinitive"
+  },
+  "(?:v|V)ivie[eé]ndo((?:me|te|se|nos|os)?)((?:lo|la|le|los|las|les)?)": {
+    "base": "viviendo",
+    "lemma": "vivir",
+    "upos": "VERB",
+    "tense": "gerund"
+  },
+  "(?:v|V)ive((?:me|te|se|nos|os)?)((?:lo|la|le|los|las|les)?)": {
+    "base": "vive",
+    "lemma": "vivir",
+    "upos": "VERB",
+    "tense": "imperative",
+    "person": "tú"
+  },
+  "(?:v|V)ivid((?:me|te|se|nos|os)?)((?:lo|la|le|los|las|les)?)": {
+    "base": "vivid",
+    "lemma": "vivir",
+    "upos": "VERB",
+    "tense": "imperative",
+    "person": "vosotros"
+  },
+  "(?:v|V)iva((?:me|te|se|nos|os)?)((?:lo|la|le|los|las|les)?)": {
+    "base": "viva",
+    "lemma": "vivir",
+    "upos": "VERB",
+    "tense": "imperative",
+    "person": "usted"
+  },
+  "(?:v|V)iv[aá]mos((?:lo|la|le|los|las|les)?)": {
+    "base": "vivamos",
+    "lemma": "vivir",
+    "upos": "VERB",
+    "tense": "imperative",
+    "person": "nosotros"
+  },
+  "(?:v|V)ivan((?:me|te|se|nos|os)?)((?:lo|la|le|los|las|les)?)": {
+    "base": "vivan",
+    "lemma": "vivir",
+    "upos": "VERB",
+    "tense": "imperative",
+    "person": "ustedes"
+  },
+  "(?:a|A)br[ií]r((?:me|te|se|nos|os)?)((?:lo|la|le|los|las|les)?)": {
+    "base": "abrir",
+    "lemma": "abrir",
+    "upos": "VERB",
+    "tense": "infinitive"
+  },
+  "(?:a|A)br[ií]e[eé]ndo((?:me|te|se|nos|os)?)((?:lo|la|le|los|las|les)?)": {
+    "base": "abriendo",
+    "lemma": "abrir",
+    "upos": "VERB",
+    "tense": "gerund"
+  },
+  "(?:a|A)bre((?:me|te|se|nos|os)?)((?:lo|la|le|los|las|les)?)": {
+    "base": "abre",
+    "lemma": "abrir",
+    "upos": "VERB",
+    "tense": "imperative",
+    "person": "tú"
+  },
+  "(?:a|A)brid((?:me|te|se|nos|os)?)((?:lo|la|le|los|las|les)?)": {
+    "base": "abrid",
+    "lemma": "abrir",
+    "upos": "VERB",
+    "tense": "imperative",
+    "person": "vosotros"
+  },
+  "(?:a|A)bra((?:me|te|se|nos|os)?)((?:lo|la|le|los|las|les)?)": {
+    "base": "abra",
+    "lemma": "abrir",
+    "upos": "VERB",
+    "tense": "imperative",
+    "person": "usted"
+  },
+  "(?:a|A)br[aá]mos((?:lo|la|le|los|las|les)?)": {
+    "base": "abramos",
+    "lemma": "abrir",
+    "upos": "VERB",
+    "tense": "imperative",
+    "person": "nosotros"
+  },
+  "(?:a|A)bran((?:me|te|se|nos|os)?)((?:lo|la|le|los|las|les)?)": {
+    "base": "abran",
+    "lemma": "abrir",
+    "upos": "VERB",
+    "tense": "imperative",
+    "person": "ustedes"
+  },
+  "(?:c|C)err[aá]r((?:me|te|se|nos|os)?)((?:lo|la|le|los|las|les)?)": {
+    "base": "cerrar",
+    "lemma": "cerrar",
+    "upos": "VERB",
+    "tense": "infinitive"
+  },
+  "(?:c|C)errando((?:me|te|se|nos|os)?)((?:lo|la|le|los|las|les)?)": {
+    "base": "cerrando",
+    "lemma": "cerrar",
+    "upos": "VERB",
+    "tense": "gerund"
+  },
+  "(?:c|C)ie[eé]rra((?:me|te|se|nos|os)?)((?:lo|la|le|los|las|les)?)": {
+    "base": "cierra",
+    "lemma": "cerrar",
+    "upos": "VERB",
+    "tense": "imperative",
+    "person": "tú"
+  },
+  "(?:c|C)errad((?:me|te|se|nos|os)?)((?:lo|la|le|los|las|les)?)": {
+    "base": "cerrad",
+    "lemma": "cerrar",
+    "upos": "VERB",
+    "tense": "imperative",
+    "person": "vosotros"
+  },
+  "(?:c|C)ie[eé]rre((?:me|te|se|nos|os)?)((?:lo|la|le|los|las|les)?)": {
+    "base": "cierre",
+    "lemma": "cerrar",
+    "upos": "VERB",
+    "tense": "imperative",
+    "person": "usted"
+  },
+  "(?:c|C)erre[aá]mos((?:lo|la|le|los|las|les)?)": {
+    "base": "cerremos",
+    "lemma": "cerrar",
+    "upos": "VERB",
+    "tense": "imperative",
+    "person": "nosotros"
+  },
+  "(?:c|C)ie[eé]rren((?:me|te|se|nos|os)?)((?:lo|la|le|los|las|les)?)": {
+    "base": "cierren",
+    "lemma": "cerrar",
+    "upos": "VERB",
+    "tense": "imperative",
+    "person": "ustedes"
+  },
+  "(?:l|L)ee[eé]r((?:me|te|se|nos|os)?)((?:lo|la|le|los|las|les)?)": {
+    "base": "leer",
+    "lemma": "leer",
+    "upos": "VERB",
+    "tense": "infinitive"
+  },
+  "(?:l|L)eye[eé]ndo((?:me|te|se|nos|os)?)((?:lo|la|le|los|las|les)?)": {
+    "base": "leyendo",
+    "lemma": "leer",
+    "upos": "VERB",
+    "tense": "gerund"
+  },
+  "(?:l|L)ee((?:me|te|se|nos|os)?)((?:lo|la|le|los|las|les)?)": {
+    "base": "lee",
+    "lemma": "leer",
+    "upos": "VERB",
+    "tense": "imperative",
+    "person": "tú"
+  },
+  "(?:l|L)eed((?:me|te|se|nos|os)?)((?:lo|la|le|los|las|les)?)": {
+    "base": "leed",
+    "lemma": "leer",
+    "upos": "VERB",
+    "tense": "imperative",
+    "person": "vosotros"
+  },
+  "(?:l|L)ea((?:me|te|se|nos|os)?)((?:lo|la|le|los|las|les)?)": {
+    "base": "lea",
+    "lemma": "leer",
+    "upos": "VERB",
+    "tense": "imperative",
+    "person": "usted"
+  },
+  "(?:l|L)ea[aá]mos((?:lo|la|le|los|las|les)?)": {
+    "base": "leamos",
+    "lemma": "leer",
+    "upos": "VERB",
+    "tense": "imperative",
+    "person": "nosotros"
+  },
+  "(?:l|L)ean((?:me|te|se|nos|os)?)((?:lo|la|le|los|las|les)?)": {
+    "base": "lean",
+    "lemma": "leer",
+    "upos": "VERB",
+    "tense": "imperative",
+    "person": "ustedes"
+  }
+}
