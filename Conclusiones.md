@@ -26,6 +26,8 @@ El modelo se trata de un modelo Roberta cuyo objetivo será resolver las correfe
 
 ## Entrenamiento
 
-
+Para el entrenamiento era necesario entrenarlo con frases, o bien que tuvieran correferencias dentro de ella, o bien que tuvieran correferencias entre ellas. Lamentablemente no hemos podido entrenar el modelo todo lo bien que querríamos porque se nos hacía inviable el tiempo que tardaba ya que eran 10h por época en colab. Al final lo entrenamos con muchos menos datos y el modelo no está cerca de aprender las correferencias correctamente.
 
 ## Prueba
+
+Los datos de las pruebas no nos llevan a sacar muchas conclusiones sobre el modelo ya que no hemos podido entrenarlo correctamente y ciertamente, resuelve las correferencias de forma aleatoria (Iván por favor salva esta párrafo).
