@@ -22,13 +22,15 @@ Cabe recalcar que si el dataset que se emplea es de texto ya tokenizado, este no
 
 # Modelo
 
-El modelo se trata de un modelo Roberta cuyo objetivo será resolver las correferencias de los pronombres del texto.
+El modelo se trata de un modelo Roberta cuyo objetivo será resolver las correferencias de los pronombres del texto agrupándolos en clusters.
 
 ## Entrenamiento
 
 Para el entrenamiento era necesario entrenarlo con frases, o bien que tuvieran correferencias dentro de ella, o bien que tuvieran correferencias entre ellas. Lamentablemente no hemos podido entrenar el modelo todo lo bien que querríamos porque se nos hacía inviable el tiempo que tardaba ya que eran 10h por época en colab. Al final lo entrenamos con muchos menos datos y el modelo no está cerca de aprender las correferencias correctamente.  
 Aún así pensamos que con un gran computador y el suficiente tiempo se podría entrenar el modelo correctamente.
 
+Después de bastante quebraderos de cabeza, el último día nos dimos cuenta que los datos que preprocesamos y los que necesita el modelo eran distintos, pero ya era muy tarde para cambiarlos. Debido a eso, no pudimos determinar si fallaba algo del modelo o solo era esa incompatiblidad cuando depurábamos.
+
 ## Prueba
 
-Los datos de las pruebas no nos llevan a sacar muchas conclusiones sobre el modelo ya que no hemos podido entrenarlo correctamente y ciertamente, resuelve las correferencias de forma aleatoria (Iván por favor salva esta párrafo).
+Debido a los fallos mencionados anteriormente en el entrenamiento, no pudimos sacar conclusiones válidas del modelo ya que nos agrupaba todo en un mismo cluster de referencia y, debido a la falta de tiempo, no pudimos corregirlo.
